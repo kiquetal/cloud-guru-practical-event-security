@@ -7,11 +7,8 @@ aws cloudtrail lookup-events --max-items 100
 aws cloudtrail lookup-events --lookup-attributes "AtributeKey=Username,AttributeValue=Alex.Higgns" 
 
 
-
-
-
-
 #### Athena queries
+
 
 
 
